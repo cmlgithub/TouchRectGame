@@ -7,9 +7,11 @@
     tools:context="com.cml.touchrectgame.MainActivity">
 
 
-    <com.cml.touchrectgame.TouchRectView
+    <com.cml.touchrectgame.ImpactDismissGameView
+        android:id="@+id/impactDismissGameView"
         android:background="@android:color/black"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
+
 
 </android.support.constraint.ConstraintLayout>

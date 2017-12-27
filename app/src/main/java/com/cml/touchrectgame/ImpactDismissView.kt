@@ -14,7 +14,7 @@ import kotlin.concurrent.thread
  * author : cml on 2017/12/25
  * github : https://github.com/cmlgithub
  */
-class TouchRectView @JvmOverloads constructor(context: Context,attrs: AttributeSet? = null,defStyleAttr: Int =0): View(context,attrs,defStyleAttr) {
+class ImpactDismissView @JvmOverloads constructor(context: Context, attrs: AttributeSet? = null, defStyleAttr: Int =0): View(context,attrs,defStyleAttr) {
 
     val TAG = "CML"
 
