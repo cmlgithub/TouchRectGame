@@ -56,7 +56,7 @@ class ImpactDismissGameView @JvmOverloads constructor(context: Context, attrs: A
     private var isClickDownBaffle = false
 
     //block
-    private var row = 0
+    private var row = 3
     private var column = 4
     private var blockWidth = 0f
     private var blockHeight = 0f
